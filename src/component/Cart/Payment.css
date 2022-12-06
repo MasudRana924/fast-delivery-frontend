@@ -1,0 +1,12 @@
+.paymentContainer{
+  margin-top: 200px;
+margin-left: 800px;
+}
+
+.payment-btn{
+  background-color: black;
+  height:40px;
+  width:200px;
+  color:white;
+
+}

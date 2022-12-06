@@ -1,0 +1,23 @@
+.category-container p{
+    font-style: italic;
+}
+.category-section{
+    display: flex;
+}
+.category-card{
+    padding: 20px;
+}
+.category-btn{
+    width:110px;
+    height:110px;
+    background-color: #fff;
+    border:#fff;
+}
+.btn-img{
+    width:auto;
+}
+.category-card p{
+text-align: center;
+font-weight: bold;
+margin-top: 10px;
+}

@@ -1,0 +1,35 @@
+.cart-items-card{
+    display: flex;
+    height: 250px;
+    align-items: flex-start;
+    box-sizing: border-box;
+    margin-top: 15px;
+}
+.cart-item-img{
+    width:300px;
+    height:100%;
+    /* width: 5vmax;
+    border:1px solid red; */
+}
+.cart-items-details{
+    display: flex;
+    margin: 0.3vmax 1vmax;
+    flex-direction: column;
+}
+.cart-items-link{
+    font: 300 0.9vmax cursive;
+    color: rgba(24, 24, 24, 0.815);
+    text-decoration: none;
+}
+.cart-items-price{
+    color: tomato;
+    font: 100 0.8vmax "Roboto";
+    cursor: pointer;
+}
+.cart-itmes-remove-btn{
+    margin-top: 10px;
+    color: tomato;
+    font: 100 0.8vmax "Roboto";
+    cursor: pointer;
+    
+}

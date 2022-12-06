@@ -1,0 +1,61 @@
+.services-section {
+    height: 400px;
+    margin-top: 200px;
+    position: relative;
+}
+
+.services-card {
+    width: 100%;
+    height: 300px;
+    background-color: rgba(135, 207, 235, 0.211);
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.services-card,
+.services-card-four p {
+    font-size: 19px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 130px;
+
+}
+
+.services-card-four {
+    width: 100%;
+    height: 300px;
+    background-color: rgba(135, 207, 235, 0.211);
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.services-title {
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.services-card-two {
+    width: 100%;
+    height: 100px;
+    background-color: rgba(135, 207, 235, 0.211);
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.services-card-three {
+    width: 100%;
+    height: 100px;
+    background-color: rgba(135, 207, 235, 0.211);
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.services-card-two,
+.services-card-three p {
+    font-size: 19px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 60px;
+}

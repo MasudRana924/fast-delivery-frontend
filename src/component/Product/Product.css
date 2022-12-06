@@ -1,0 +1,64 @@
+.product-section {
+  margin: 50px;
+}
+.product-section-header {
+  position: relative;
+  margin-left: 240px;
+
+}
+
+.product-section-header hr {
+  width: 150px;
+  border:1px solid orange;
+  background-color: orange;
+}
+.product-section-header p{
+  font-weight: bold;
+  font-size:medium;
+  font-style: italic;
+}
+.productCard {
+  width: 100%;
+  border: 1px solid gainsboro;
+}
+
+.category-title {
+  background-color: rgba(255, 99, 71, 0.525);
+  border: white;
+}
+
+.product-image {
+  width: 100%;
+  height: 250px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.product-container {
+  padding: 2px 16px;
+}
+
+.product-container h1 {
+  font-size: 20px;
+}
+
+.product-container p {
+  color: red;
+  font-weight: 500;
+}
+
+.icon-color {
+  color: gold;
+}
+
+.load-more-btn {
+  position: absolute;
+  margin-left: 850px;
+  background-color: white;
+  border: 1px solid orange;
+  font-weight: 500;
+  margin-top: 60px;
+  width: 150px;
+  height: 40px;
+
+}

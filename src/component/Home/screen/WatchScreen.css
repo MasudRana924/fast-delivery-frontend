@@ -1,0 +1,46 @@
+.watchscreen-container{
+    margin:150px 50px 50px 50px;
+}
+.watch-sections{
+    background-color: orange;
+    margin: 50px;
+    border-radius: 10px;
+    height: 200px;
+}
+.camera-sections{
+    background-color: lightgreen;
+    margin: 50px;
+    border-radius: 10px;
+    height: 200px;
+}
+.airbud-sections{
+    background-color: mediumblue;
+    margin: 50px;
+    border-radius: 10px;
+    height: 200px;
+}
+.watch-sections-info{
+    width:60%;
+}
+.watch-sections-info h5{
+    font-size: 30px;
+    color:white;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.watch-sections-info h6{
+    font-size: 14px;
+    color:white;
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.watch-sections-info p{
+    color:white;
+    font-size: 25px;
+    padding-top: 5px;
+}
+.watch-offer-img{
+ margin-left: 280px;
+ width:40%;
+ margin-top: -230px;
+}

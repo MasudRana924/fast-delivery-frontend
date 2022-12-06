@@ -1,0 +1,84 @@
+.stepper-section{
+    margin-top: 150px;
+}
+.shipping-hr{
+    border: 1px solid gainsboro;
+  height:5px;
+  background-color: black;
+}
+.shippingContainer {
+    width: 100vw;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.shippingBox {
+    background-color: white;
+    width: 25vw;
+    height: 90vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.shippingHeading {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.94);
+    padding: 1.3vmax;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.911);
+    width: 100%;
+    margin: auto;
+}
+
+.shippingForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 2vmax;
+    justify-content: space-evenly;
+    height: 80%;
+    transition: all 0.5s;
+}
+
+.shippingForm>div {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.shippingForm>div>input,
+.shippingForm>div>select {
+    padding: 1vmax 4vmax;
+    padding-right: 1vmax;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.267);
+    border-radius: 4px;
+    outline: none;
+}
+.shipping-section-icon{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    margin-left: 10px;
+    
+}
+.shippingBtn {
+    border: none;
+    background-color: #8ba73b;
+    color: white;
+    font: 300 1vmax "Roboto";
+    width: 100%;
+    padding: 1vmax;
+    cursor: pointer;
+    transition: all 0.5s;
+    outline: none;
+    margin: 2vmax;
+}
+
+.shippingBtn:hover {
+    background-color: #8ba73b;
+}

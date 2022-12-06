@@ -1,0 +1,87 @@
+.details-container{
+    margin-top: 200px;
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+.details-img{
+    height:500px;
+    width:100%;
+}
+
+.size-btn{
+    background-color: white;
+    border:1px solid black;
+    border-radius: 20px;
+    height:40px;
+    width:40px;
+    text-align: center;
+}
+.whistle-btn{
+    border:1px solid black;
+    width:40%;
+    background-color: #fff;
+    padding: 10px;
+}
+.bag-btn{
+    border:1px solid black;
+    margin-left: 10px;
+    width:40%;
+    background-color: black;
+    color:white;
+   padding: 10px;
+
+}
+.btn-quantity{
+    background-color: #fff;
+    padding: 5px;
+    border:1px solid gray;
+    width:10%;
+    margin: 5px;
+    font-weight: bold;
+}
+.add-cart-btn{
+    border:1px solid black;
+    margin-left: 10px;
+    width:30%;
+    background-color: black;
+    color:white;
+   padding: 10px;
+}
+.share-btn{
+    border:1px solid white;
+    margin-left: 10px;
+    width:30%;
+    background-color: #fff;
+    color:black;
+    padding: 10px;
+}
+.share-img{
+    width:30px;
+    height: 30px;
+}
+.redColor{
+    color:red;
+}
+.greenColor{
+    color: green;
+}
+.cart-item-no{
+    width:7%;
+    outline-style: none;
+    list-style: none;
+    text-align: center;
+    border: #fff;
+    padding-left: 12px;
+}
+.review-context{
+    border-radius: 15px;
+    padding: 5px;
+}
+.review-submit-btn{
+    border:1px solid white;
+    width:30%;
+    background-color: Tomato;
+    color:white;
+    padding: 5px;
+   
+}
